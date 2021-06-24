@@ -6,4 +6,5 @@
 - [튜플형, 사전형, 집합형](https://ventus.tistory.com/5)
 - [입출력](https://ventus.tistory.com/6)
 - [global, lambda](https://ventus.tistory.com/7)
+- [Join](https://ventus.tistory.com/17)
 <br>
